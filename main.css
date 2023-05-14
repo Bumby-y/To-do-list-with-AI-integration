@@ -10,7 +10,7 @@
 }
 
 * {
-    box-sizing: ; border-box;
+    box-sizing: border-box;
     margin: 0;
     font-family:'Fira sans', sans-serif;
 }
@@ -135,7 +135,7 @@ main{
 
 }
 
-.task .actions button{.
+.task .actions button{
     cursor: pointer;
     margin: 0 0.5rem;
     font-size: 1.125rem;
